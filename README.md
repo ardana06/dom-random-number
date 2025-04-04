@@ -1,1 +1,2 @@
 # dom-random-number
+test
